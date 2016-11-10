@@ -1,0 +1,8 @@
+>Rosalind_7150
+ATTCTCTAAC
+>Rosalind_1902
+ACAAGATG
+>Rosalind_0691
+AGGGTTATC
+>Rosalind_0341
+AACCATTGC
